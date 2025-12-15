@@ -1,5 +1,5 @@
 # [Jurre v/d Veen]
-### Ethical Hacker | Security Analyst | CVE Contributor
+### Student Ethical Hacker | Pentester
 
 ---
 
@@ -14,7 +14,7 @@ I am a security enthusiast specializing in understanding and exploiting modern w
 ### 🏆 Achievements & Credentials
 
 * **Rank:** Active Hacker on Hack The Box.
-* **Certifications:** OSCP (Certified Ethical Hacker - *placeholder if you have one*).
+* **Certifications:** EJPT (In Progress).
 * **Vulnerability Disclosure:** [X] Confirmed CVEs (e.g., CVE-2024-5555).
 
 ---
