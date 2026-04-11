@@ -10,14 +10,14 @@ order: 4
 I am a dutch ethical-hacking student learning towards a job in offensive security.<br>
 Currently focussing on expanding my hacking skillset paired with coffee and questionable
 screentime.<br>
-This website will function as my portfolio and extension to my resume.
+This website will function as my portfolio and extension to myresume.
 
 
 ## Certifications:
 ![Desktop View](/assets/images/ejpt_badge.png){:.w-75 .normal}
 
 ## Ranks:
-![Desktop View](https://tryhackme.com/api/v2/users/badges?username=T1tan1um){:.w-75 .normal}
+![Desktop View](https://tryhackme-badges.s3.amazonaws.com/Aquar1us.png){:.w-75 .normal}
 ![Desktop View](https://www.hackthebox.eu/badge/image/2275968"){:.w-75 .normal}
 ![Desktop View](https://tryhackme-badges.s3.amazonaws.com/jurwan10.png?update=1){:.w-75 .normal}<br>
 View my <a href="https://app.hackthebox.com/users/2275968">HackTheBox</a> or <a href="https://tryhackme.com/p/T1tan1um">Tryhackme</a> profile!
@@ -30,5 +30,5 @@ View my <a href="https://app.hackthebox.com/users/2275968">HackTheBox</a> or <a 
 
 ## Achievements
 Won a cashprize for 'most vulnerabilities found' at "Test.FRL".<br>
-									This was an event where students from multiple colleges got the opportunity to
-									attack assets of the municipality "De Fryske Marren" in a Red-Team approach.
+This was an event where students from multiple colleges got the opportunity to
+attack assets of the municipality "De Fryske Marren" in a Red-Team approach.
