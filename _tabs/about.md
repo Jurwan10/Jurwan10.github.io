@@ -18,7 +18,7 @@ This website will function as my portfolio and resume.
 
 ## Ranks:
 ![Desktop View](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=67f3fe09113de5affff3b84b){:.w-75 .normal}
-![Desktop View](https://www.hackthebox.eu/badge/image/2275968" alt="HTB-Badge){:.w-75 .normal}
+![Desktop View](https://www.hackthebox.eu/badge/image/2275968"){:.w-75 .normal}
 ![Desktop View](https://tryhackme-badges.s3.amazonaws.com/T1tan1um.png?update=1){:.w-75 .normal}
 ![Desktop View](https://app.hackthebox.com/users/2275968){:.w-75 .normal}
 ![Desktop View](https://tryhackme.com/p/T1tan1um){:.w-75 .normal}
