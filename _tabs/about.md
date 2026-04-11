@@ -14,7 +14,7 @@ This website will function as my portfolio aswell as an extension to my resume.
 ![Desktop View](/assets/images/ejpt_badge.png){:.w-75 .normal}
 
 ## Ranks:
-<a href="https://app.hackthebox.com/users/2275968"><img src="https://www.hackthebox.eu/badge/image/2275968" alt=htb-badge</a><br>
+<a href="https://app.hackthebox.com/users/2275968"><img src="https://www.hackthebox.eu/badge/image/2275968" alt="htb-badge"</a><br>
 View my <a href="https://tryhackme.com/p/T1tan1um">Tryhackme</a> profile!
 
 ## Trainings and course
