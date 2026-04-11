@@ -1,7 +1,7 @@
 ---
 title: Base Template
 description: Use this frontmatter for every post
-author: author_1.name
+author: [author_1]
 date: 2026-04-10
 categories: [Templates, Basic]
 tags: [templates]
