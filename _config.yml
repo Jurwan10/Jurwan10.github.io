@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: T1tan1um # the main title
 
-tagline: Jurre van der Veen # it will display as the subtitle
+tagline: Jurre van der Veen <br> Open to Work # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  # text here
