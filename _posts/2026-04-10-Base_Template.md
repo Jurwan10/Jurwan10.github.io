@@ -3,7 +3,7 @@ title: Base Template
 description: Use this frontmatter for every post
 author: [author_1]
 date: 2026-04-10
-categories: [Templates, Basic] # [folder, subfolder/type] -> e.g.  [Projects, Hackthebox] OR [Projects] 
+categories: [Templates] # [folder, subfolder/type] -> e.g.  [Projects, Hackthebox] OR [Projects] 
 tags: [templates] # Fill with names of all used tools and other important tags
 pin: true
 math: true
