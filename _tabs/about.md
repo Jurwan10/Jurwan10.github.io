@@ -1,13 +1,16 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 6
 ---
 
-I am a dutch ethical-hacking student learning towards a job in offensive security.<br>
+I'm Jurre van der Veen, an ethical hacking student based in the Netherlands.<br>
+learning towards a job in offensive security.<br>
 Currently focussing on expanding my hacking skillset paired with coffee and questionable
 screentime.<br>
 This website will function as my portfolio aswell as an extension to my resume.
+
+I have many interests but 
 
 
 ## Certifications:
