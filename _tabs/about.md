@@ -51,19 +51,10 @@ At the time of writing i am finishing up my study and preparing to participate i
 | :--------------------------- | :--------------- | :--------------- | :---- |
 | CONNECT.FRL                  | Networking Event | 2025-03-03       | <a href="https://connect.frl/">Website</a>  |
 | TEST.FRL                     | Cyber Exercise   | 2025-03-26       | -     |
-| EHGN x KPN - 2000 leden CTF  | Capture The Flag | 2026-03-06       | <a href="https://www.linkedin.com/posts/anass-ali-ethical-hacker_cybersecurity-ctf-ethicalhacking-activity-7429574588331819008-lGkn/">LinkedIN post</a>  |
+| EHGN x KPN - 2000 leden CTF  | Capture The Flag | 2026-03-06       | <a href="https://www.linkedin.com/posts/anass-ali-ethical-hacker_cybersecurity-ctf-ethicalhacking-activity-7429574588331819008-lGkn/">LinkedIN Post</a>  |
 | CONNECT.FRL                  | Networking Event | 2026-03-25       | <a href="https://connect.frl/">Website</a>  |
+| HACK.FRL                     | Cyber Exercise   | 2026-03-03       | <a href="https://www.linkedin.com/posts/jurrevdv_defensie-hackfrl-cybersecurity-activity-7449912388008501249-58QU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACizrvcBC0u5SxX76AgY36bwMHGns20OFIE">Personal LinkedIN Post</a>  |
+| BSides Groningen             | Networking and<br>Knowledge Sharing Event | 2026-03-25       | <a href="https://bsidesgrunn.org/">Website</a>  |
 
-<!-- Move the rows below to above when event has finished. 
-| HACK.FRL                     | Cyber Exercise   | 2026-03-03       | -     |
-| BSides Groningen             | Networking Event | 2026-03-25       | <a href="https://bsidesgrunn.org/">Website</a>  |
--->
 Outside the above events i also attended multiple guest-lectures on cybersecurity at varying locations.
-
-```mermaid
- gantt
-  title  Meet me at:
-  HACK.FRL                          :active, a, 2026-04-13, 1d
-  BSides Groningen                  :active, b, 2026-04-17, 1d
-```
 
