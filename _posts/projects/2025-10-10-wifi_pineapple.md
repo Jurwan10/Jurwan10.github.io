@@ -67,18 +67,19 @@ running on hardware I picked up for pocket change.
 > <p> For detailed information on flashing and setting up the clone, please refer to xschwarze's repo</p>
 ---
 
+
 ## What Can You Actually Do With It?
 
 This is where things get interesting. The Pineapple firmware ships with a suite of built-in tools and supports community modules. Here's a look at a few of the more notable capabilities:
-
+![Desktop View](/assets/images/20260430_201843_2.jpg){: width="972" height="589" .w-50 .right}
 ### 🔍 Recon & Scanning
-The **PineAP** suite constantly listens for probe requests; the broadcasts your phone sends out asking<br>
+The **PineAP** suite constantly listens for probe requests; the broadcasts your phone sends out asking:<br>
  *"hey, is [network I've connected to before] around?"*.<br>
 Within minutes of turning the device on in a public space, you should see a list of SSIDs that nearby devices are actively looking for. 
 
 ### 📡 Rogue Access Point
 Using the collected probe data, the Pineapple can broadcast SSIDs that match what nearby devices are searching for, causing them to automatically associate.<br>
-This is the classic **Evil Twin** scenario, and seeing it work in a controlled lab environment really demonstrates why connecting to open networks is a bad idea.
+This is the classic **Evil Twin** scenario, and seeing it work in a controlled environment really demonstrates why connecting to open networks is not always a good idea.
 
 ### 🕵️ Capture & Logging
 Paired with modules like **DNSspoof** or a basic packet capture setup, traffic from associated clients can be inspected. In a properly isolated test environment this is invaluable for understanding what data is actually exposed on unencrypted connections.
