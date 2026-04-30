@@ -27,7 +27,7 @@ Down the rabbit hole of networking and cybersecurity, it doesn't take long befor
 The attack surface of WiFi might have slimmed down now *WPA3* exists and awareness grows, but it still is relevant and to me, fun to figure out!
 
 As I went deeper, this tool got my attention: the [**WiFi Pineapple by Hak5**](https://shop.hak5.org/products/wifi-pineapple).<br>
-It's practically a wireless auditing tool — a device designed to make WiFi reconnaissance and attacks accessible, with a clean web UI and a library of community modules.
+It's practically a wireless auditing tool, a device designed to make WiFi reconnaissance and attacks accessible, with a clean web UI and a library of community modules.
 
 There's also a reason I didn't just buy one: **the price tag**. At well over €200 for the base model, it's a tough sell when you're just getting started and want to experiment.
 
@@ -45,7 +45,7 @@ The idea is as follows: certain budget routers share similar hardware with the o
 I picked up a **GL-Inet AR750s-ext** secondhand for around **€25**,
 a travel router with a 2.4GHz and 5GHz antenna and a slot for an sd card.
 (Recommended by xschwarze on his [devices list](https://github.com/xchwarze/wifi-pineapple-cloner/blob/master/devices.md).)
-At only a fraction of the cost of the real thing — and got to work.
+At only a fraction of the cost of the real thing.
 <br><br><br><br><br><br>
 > **Why a travel router?** They're compact, powered via USB, and often built on OpenWrt-compatible hardware. Perfect for a portable hacking kit.
 
