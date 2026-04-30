@@ -85,8 +85,8 @@ This is the classic **Evil Twin** scenario, and seeing it work in a controlled e
 Standalone or continuing from the **Evil Twin** we can deploy an **Evil Portal**.<br>
 This, upon connecting to the network, can prompt the user to login through a fully customizable captive portal/landing page.<br>
 To do so there are presets to be found, but what makes it powerful.. any existing portal can be downloaded, cloned and put up to appear as legitimate.<br>
->An example of attack could be your local starbucks where you login through a portal to gain access to the internet.<br>
->When cloned, an attacker possibly just gained your login credentials!
+>An example of attack could be your local Starbucks where you login through a portal to gain access to the internet.<br>
+>When cloned and you think you connected to the actual Starbucks, an attacker possibly just gained your login credentials!
 
 ### 🕵️ Capture & Logging
 Paired with modules like **DNSspoof** or a basic packet capture setup, traffic from associated clients can be inspected. In a properly isolated test environment this is invaluable for understanding what data is actually exposed on unencrypted connections.
