@@ -37,7 +37,8 @@ So I went looking for an alternative.
 
 ## The Alternative: A Secondhand Travel Router
 
-After some digging, I came across a project by [**xchwarze**](https://github.com/xchwarze/wifi-pineapple-cloner) — a WiFi Pineapple firmware cloner that can be flashed onto a range of off-the-shelf travel routers.<br>
+After some digging, I came across a project by [**xchwarze**](https://github.com/xchwarze/wifi-pineapple-cloner).<br>
+A WiFi Pineapple firmware cloner that can be flashed onto a range of off-the-shelf travel routers.<br>
 The idea is as follows: certain budget routers share similar hardware with the original Pineapple (same chipset family, similar specs), and with the right firmware, they are nearly the same.
 
 
