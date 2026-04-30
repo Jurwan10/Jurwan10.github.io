@@ -6,7 +6,7 @@ mermaid: true
 ---
 
 Hi, my name is <u>Jurre van der Veen</u>, an ethical hacking student based in the Netherlands,<br>
-I am currently focussing on expanding my hacking skillset trough e-learning, certifications and private-education.<br>
+I am currently focussing on expanding my hacking skillset trough e-learning, certifications and education.<br>
 There always has been a big interest and easy way around quite frankly, anything tech.<br>
 Driven by a curious, adaptive and problem solving mindset,<br>
 i tought myself alot by creating my own projects, some of which you can find here, updated as i work on them.<br><br>
@@ -16,7 +16,7 @@ This website will function as my portfolio and a way to compliment my resume.
 ## Experience
 Coming from a strong retail management background but having a passion in tech and IT,<br>
 i have chosen and used 2025/2026 to switch careers into (offensive) cybersecurity to become a penetration tester.<br>
-At the time of writing i am finishing up my study and preparing to participate in the workfield.
+As of April 29th i have succesfully finished my education, looking out towards new challenges.
 > <h5>Let’s Connect!</h5>
 > If you’re an employer, recruiter, or fellow hacker,<br>
 > don't hesitate to contact me as i am happy to have a chat!
@@ -51,7 +51,7 @@ At the time of writing i am finishing up my study and preparing to participate i
     There were multiple prizes to win in categories like "Most Creative Hack", "Best Documented Hack" and "Most Impactful Hack".<br><br>
 
     Together with a classmate we tried our best and were able to discover and report multiple vulnerabilities.<br>
-    Doing so landed us a shared 3rd & 1st place in the category of "Most Impactful Hack"!🏆<br><br>
+    Doing so landed us a shared 3rd & 1st place in the category of "*Most Impactful Hack*"!🏆<br><br>
     Here i won a Flipper Zero with a case and WiFi Dev-Board!<br>
     Not only this, all winners across all categories were invited to visit the Cyber-Security Centre of the Dutch Defense Department.<br>
     > The event gave a great opportunity to meet and share knowledge with likeminded hackers.
