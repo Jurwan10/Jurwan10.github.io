@@ -1,10 +1,10 @@
 ---
-title: [UPCOMING] Turning a Travel Router into a Wireless Hacking Tool
+title: [UPCOMING] Turning a Cheap Travel Router into a Wireless Hacking Tool
 description: About flashing your own dual-band WiFi-Pineapple
 author: [author_1]
 date: 2025-10-10
-categories: [Projects] # [folder, subfolder/type] -> e.g.  [Projects, Hackthebox] OR [Projects] 
-tags: [wireless, wifi, tool, router, firmware] # Fill with names of all used tools and other important tags
+categories: [Projects, Wireless] # [folder, subfolder/type] -> e.g.  [Projects, Hackthebox] OR [Projects] 
+tags: [wireless, wifi, tool, router, firmware]
 pin: true
 math: true
 mermaid: true
@@ -15,11 +15,10 @@ image:
 ---
 
 >### Disclaimer
->The images and project idea are not mine and all credits go to:
->Reddit user [maleng_](https://www.reddit.com/user/maleng_/)
+>Credits go to [xschwarze](https://github.com/xchwarze/wifi-pineapple-cloner) for creating open source firmware.
 >
 >**Website & Youtube links:**<br>
-><https://shrikelab.co/><br>
-><https://www.youtube.com/watch?v=8tTG0TBM7ts><br>
-><https://www.youtube.com/watch?v=Ig7oZpujHtc>
+>https://www.youtube.com/watch?v=udnxagkSzoA<br>
+>https://www.youtube.com/watch?v=67sGUzKJ8IU&t
 {: .prompt-info }
+
