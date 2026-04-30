@@ -72,7 +72,8 @@ running on hardware I picked up for pocket change.
 This is where things get interesting. The Pineapple firmware ships with a suite of built-in tools and supports community modules. Here's a look at a few of the more notable capabilities:
 
 ### 🔍 Recon & Scanning
-The **PineAP** suite constantly listens for probe requests; the broadcasts your phone sends out asking *"hey, is [network I've connected to before] around?"*.<br>
+The **PineAP** suite constantly listens for probe requests; the broadcasts your phone sends out asking<br>
+ *"hey, is [network I've connected to before] around?"*.<br>
 Within minutes of turning the device on in a public space, you should see a list of SSIDs that nearby devices are actively looking for. 
 
 ### 📡 Rogue Access Point
