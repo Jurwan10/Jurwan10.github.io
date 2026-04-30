@@ -84,14 +84,15 @@ This is the classic **Evil Twin** scenario, and seeing it work in a controlled l
 Paired with modules like **DNSspoof** or a basic packet capture setup, traffic from associated clients can be inspected. In a properly isolated test environment this is invaluable for understanding what data is actually exposed on unencrypted connections.
 
 ### 📶 Deauthentication
-The device can send 802.11 deauth frames to knock clients off a network — useful for forcing a WPA handshake capture, or just demonstrating to someone why "it's just WiFi" isn't a reason to be ignorant about security.
+The device can send 802.11 deauth frames to knock clients off a network, useful for forcing a WPA handshake capture, or just demonstrating to someone why "it's just WiFi" isn't a reason to stay unaware of risks.
 
 ---
 
 ## Closing Thoughts
 
 For the price of a couple of coffees and an afternoon of tinkering, you end up with a capable wireless auditing platform.<br>
-It reframes how you think about WiFi — not as an invisible, trustworthy background service, but as a broadcast medium with real attack surface.
+It might change how you think about WiFi!<br>
+Not as an invisible, trustworthy background service, but as a broadcast medium with real attack surface.
 
 If you're learning about wireless security, I'd strongly recommend going through the process of setting this up yourself. 
 The act of flashing, configuring, and using the tool teaches you more than any passive read-through ever will.
