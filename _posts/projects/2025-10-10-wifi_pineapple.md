@@ -81,11 +81,18 @@ Within minutes of turning the device on in a public space, you should see a list
 Using the collected probe data, the Pineapple can broadcast SSIDs that match what nearby devices are searching for, causing them to automatically associate.<br>
 This is the classic **Evil Twin** scenario, and seeing it work in a controlled environment really demonstrates why connecting to open networks is not always a good idea.
 
+### 🌐 Evil Portal
+Standalone or continuing from the **Evil Twin** we can deploy an **Evil Portal**.
+This, upon connecting to the network, can prompt the user to login through a fully customizable captive portal/landing page.
+To do so there are presets to be found, but what makes it powerful.. any existing portal can be downloaded, cloned and put up to appear as legitimate.
+An example of attack could be your local starbucks where you login through a portal to gain access to the internet.
+When cloned, an attacker possibly just gained your login credentials!
+
 ### 🕵️ Capture & Logging
 Paired with modules like **DNSspoof** or a basic packet capture setup, traffic from associated clients can be inspected. In a properly isolated test environment this is invaluable for understanding what data is actually exposed on unencrypted connections.
 
 ### 📶 Deauthentication
-The device can send 802.11 deauth frames to knock clients off a network, useful for forcing a WPA handshake capture, or just demonstrating to someone why "it's just WiFi" isn't a reason to stay unaware of risks.
+The device can send deauth frames to knock clients off a network, useful for forcing a WPA handshake capture, or just demonstrating to someone why "it's just WiFi" isn't a reason to stay unaware of risks.
 
 ---
 
