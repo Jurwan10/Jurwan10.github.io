@@ -53,7 +53,7 @@ At only a fraction of the cost of the real thing — and got to work.
 
 ## Flashing the Firmware
 
-> ⚠️ Only do this on hardware you own. Flashing third-party firmware voids your warranty and, if something goes wrong, can brick your device.
+> ⚠️ Flashing third-party firmware voids your warranty and could brick your device!
 
 The flashing process itself is surprisingly straightforward if you follow the documentation carefully. At a high level it comes down to:
 
