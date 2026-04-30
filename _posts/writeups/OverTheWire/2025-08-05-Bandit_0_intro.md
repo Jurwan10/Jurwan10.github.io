@@ -1,5 +1,5 @@
 ---
-title: OverTheWire - Bandit Level 6 → Level 7
+title: OverTheWire - Bandit 0 - Introduction
 description: A step-by-step guide on how to progress through the "Bandit" game.
 author: <author_1>
 date: 2025-08-05 # Change to current date or date of creation
@@ -14,6 +14,8 @@ image:
   alt: This page is under construction.
 ---
 
->##### Level 6→7  
-> Found password: `morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj`
+><h5>Level 0</h5>
+>```shell
+>ssh bandit0@bandit.labs.overthewire.org -p 2220
+>```
 {: .prompt-tip }
