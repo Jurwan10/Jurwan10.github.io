@@ -17,8 +17,8 @@ image:
 >Credits go to [xschwarze](https://github.com/xchwarze/wifi-pineapple-cloner) for the ported firmware and to [shurikenhacks](https://www.youtube.com/@shurikenhacks) for creating video walkthroughs.
 >
 >**Links:**<br>
->https://www.youtube.com/watch?v=udnxagkSzoA<br>
->https://www.youtube.com/watch?v=67sGUzKJ8IU&t
+><https://www.youtube.com/watch?v=udnxagkSzoA><br>
+><https://www.youtube.com/watch?v=67sGUzKJ8IU&t>
 {: .prompt-info }
 
 ## Introduction
@@ -38,7 +38,7 @@ So I went looking for an alternative.
 ## The Alternative: A Secondhand Travel Router
 
 After some digging, I came across a project by [**xchwarze**](https://github.com/xchwarze/wifi-pineapple-cloner) — a WiFi Pineapple firmware cloner that can be flashed onto a range of off-the-shelf travel routers.<br>
-The idea is as follows: certain budget routers share similar hardware with the original Pineapple (same chipset family, similar specs), and with the right firmware, they are nearly the same!
+The idea is as follows: certain budget routers share similar hardware with the original Pineapple (same chipset family, similar specs), and with the right firmware, they are nearly the same.
 
 
 ![Desktop View](/assets/images/ar750s-ext.jpg){: width="972" height="589" .w-50 .left}
