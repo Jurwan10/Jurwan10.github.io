@@ -14,7 +14,7 @@ image:
 ---
 
 >### Disclaimer
->Credits go to [xschwarze](https://github.com/xchwarze/wifi-pineapple-cloner) for the ported firmware
+>Credits go to [xschwarze](https://github.com/xchwarze/wifi-pineapple-cloner) for the ported firmware and to [shurikenhacks](https://www.youtube.com/@shurikenhacks) for creating video walkthroughs.
 >
 >**Links:**<br>
 >https://www.youtube.com/watch?v=udnxagkSzoA<br>
