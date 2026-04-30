@@ -64,7 +64,7 @@ The flashing process itself is surprisingly straightforward if you follow the do
 
 A few minutes later, I was greeted with the WiFi Pineapple web dashboard,<br>
 running on hardware I picked up for pocket change.
-> For detailed information on flashing and setting up the clone, please refer to xschwarze's repo
+> <p> For detailed information on flashing and setting up the clone, please refer to xschwarze's repo</p>
 ---
 
 ## What Can You Actually Do With It?
