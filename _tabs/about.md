@@ -5,7 +5,7 @@ order: 6
 mermaid: true
 ---
 
-Hi, my name is <u>Jurre van der Veen</u>, an ethical hacking student based in the Netherlands,<br>
+Hi, my name is <u>Jurre van der Veen</u>, an ethical hacker based in the Netherlands,<br>
 I am currently focussing on expanding my hacking skillset trough e-learning, certifications and education.<br>
 There always has been a big interest and easy way around quite frankly, anything tech.<br>
 Driven by a curious, adaptive and problem solving mindset,<br>
