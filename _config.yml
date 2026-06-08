@@ -14,9 +14,9 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: T1tan1um # the main title
+title: Jurre van der Veen # the main title
 
-tagline: Jurre van der Veen <br>- Open to Work # it will display as the subtitle
+tagline: T1tan1um <br>- Open to Work # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  # text here
