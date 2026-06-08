@@ -21,7 +21,7 @@ As of April 29th i have succesfully finished my education, looking out towards n
 > If you’re an employer, recruiter, or fellow hacker,<br>
 > don't hesitate to contact me as i am happy to have a chat!
 {: .prompt-tip }
-<img src="/assets/images/b-sides_jurre.png" alt="Jurre_B-Sides"></a>
+<img src="/assets/images/b-sides_jurre.png" alt="Jurre_B-Sides">
 
 - - -
 <div style="display: flex; gap: 30px;">
