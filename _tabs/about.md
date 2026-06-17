@@ -6,10 +6,10 @@ mermaid: true
 ---
 
 Hi, my name is <u>Jurre van der Veen</u>, an ethical hacker based in the Netherlands,<br>
-I am currently focussing on expanding my hacking skillset trough e-learning, certifications and education.<br>
+I am currently focussing on expanding my hacking skillset through e-learning, certifications and education.<br>
 There always has been a big interest and easy way around quite frankly, anything tech.<br>
 Driven by a curious, adaptive and problem solving mindset,<br>
-i tought myself alot by creating my own projects, some of which you can find here, updated as i work on them.<br><br>
+i taught myself alot by creating my own projects, some of which you can find here, updated as i work on them.<br><br>
 This website will function as my portfolio and a way to compliment my resume.
 
 
@@ -32,11 +32,10 @@ As of April 29th i have succesfully finished my education, looking out towards n
   </div>
   <div style="flex: 1; padding: 10px;">
     <h2>Certifications</h2>
-    <a href="https://certs.ine.com/7fa67830-2003-4479-82f9-8bd1cdd0344c#acc.Cw3AVUok"><img src="/assets/images/ejpt_badge.png" alt="ejpt-badge"></a>
+    <a href="https://certs.ine.com/7fa67830-2003-4479-82f9-8bd1cdd0344c#acc.Cw3AVUok"><img src="/assets/images/ejpt_badge.png" alt="ejpt-badge"></a><br>
+    <a href="https://www.credly.com/users/jurre-van-der-veen">Completed Cisco Courses.</a>
   </div>
 </div>
-
-
 ## 🏆 Achievements
 - 🎯 **Top Vulnerability Hunter**<br>
     Won a cashprize for **Most Vulnerabilities Reported** at *TEST.FRL*,<br>
